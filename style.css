@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(202, 202, 202);
+    font-family: sans-serif;
+    display: flex;
+    column-gap: 20px;
+}
+img{
+    height: 50px;
+    width: 50px;
+        vertical-align: middle;
+}
+#h3b{
+    vertical-align: middle;
+}
+div{
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
+label{
+    display: block;
+}
+#a1{
+    text-decoration: none;
+    color: grey;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border: none;
+}
